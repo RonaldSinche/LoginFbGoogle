@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400321590554",
+    "firebase_url": "https://loginfbtw.firebaseio.com",
+    "project_id": "loginfbtw",
+    "storage_bucket": "loginfbtw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400321590554:android:397b8b6190328957d468a3",
+        "android_client_info": {
+          "package_name": "ronald.com.loginfbtw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400321590554-adc2n5rsmmqrjdkrbkshu3hs62lmkcs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ronald.com.loginfbtw",
+            "certificate_hash": "a468d6a704948043f67037904f1b11e4893f1e45"
+          }
+        },
+        {
+          "client_id": "400321590554-gk7kdj7s0q4rbk4gs8blojs7640jusmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmbiy9AetxM-lgoVaTuEt9xv0qp3CpsZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400321590554-gk7kdj7s0q4rbk4gs8blojs7640jusmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

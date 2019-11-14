@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">LoginFbTw</string>
+    <string name="facebook_app_id">1004977289841418</string>
+    <string name="fb_login_protocol_scheme">fb1004977289841418</string>
+
+    <string android:name="com.twitter.sdk.android.CONSUMER_KEY">E4PSZxMzZndkKo76yWurg8Tqn</string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_SECRET">4i8Z8oAFk8RrlU3PgYda5e58joRkF6DD4Jaq4Dfd7eTPo4GuTm</string>
+
+
+</resources>
